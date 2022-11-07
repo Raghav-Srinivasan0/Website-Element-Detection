@@ -1,5 +1,0 @@
-train: C:\Users\woprg\Desktop\CCIR\LearningML\TrainingYOLOv7_3\dataset\train\images
-val: C:\Users\woprg\Desktop\CCIR\LearningML\TrainingYOLOv7_3\dataset\valid\images
-
-nc: 8
-names: ['button', 'field', 'heading', 'iframe', 'image', 'label', 'link', 'text']

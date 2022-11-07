@@ -1,0 +1,21 @@
+[True, True, True]
+statistic=8.563, p-value=0.003
+Different proportions of errors (reject H0)
+[True, True, False]
+statistic=17.150, p-value=0.000
+Different proportions of errors (reject H0)
+[True, False, True]
+statistic=15.112, p-value=0.000
+Different proportions of errors (reject H0)
+[True, False, False]
+statistic=14.131, p-value=0.000
+Different proportions of errors (reject H0)
+[False, True, True]
+statistic=7.066, p-value=0.008
+Different proportions of errors (reject H0)
+[False, True, False]
+statistic=36.605, p-value=0.000
+Different proportions of errors (reject H0)
+[False, False, True]
+statistic=11.557, p-value=0.001
+Different proportions of errors (reject H0)
